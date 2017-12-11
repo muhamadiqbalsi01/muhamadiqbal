@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to My Blog ##
 
-You can use the [editor on GitHub](https://github.com/muhamadiqbalsi01/muhamadiqbal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Nama    : MUHAMAD IQBAL SAKTI
+Jurusan : SISTEM INFORMASI
+Fakultas: SAINS DAN TEKNOLOGI
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM RIAU
+
 
 ### Markdown
 
