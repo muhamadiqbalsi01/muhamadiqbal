@@ -1,40 +1,23 @@
-## Welcome to My Blog ##
+# PanelCV
 
-Nama    : MUHAMAD IQBAL SAKTI
-Jurusan : SISTEM INFORMASI
-Fakultas: SAINS DAN TEKNOLOGI
+This theme is designed by [flexycodex](https://themeforest.net/item/flexyvcard-responsive-vcard-template-/7158750) and modified by [Locky](https://github.com/junlulocky)
 
-UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM RIAU
+I have made this into a Jekyll Theme. Demo: [https://jekyller.github.io/PanelCV](https://jekyller.github.io/PanelCV)
+
+The theme would look like this 
+
+![Demo](/images/demo.png)
 
 
-### Markdown
+# Installation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Fork the repository
+- Go to settings and set Github Pages source as master.
+- Your new site should be ready at https://username.github.io/PanelCV/
 
-```markdown
-Syntax highlighted code block
+Check out for more themes: [Jekyll Themes](http://jekylltheme.org)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Author
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/muhamadiqbalsi01/muhamadiqbal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Locky](https://github.com/junlulocky)
